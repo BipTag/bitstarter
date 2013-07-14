@@ -1,5 +1,6 @@
-require('fs');
-require ('buffer');
+var fs = require('fs');
+
+var buf = require ('buffer');
 
 
 var express = require('express');
